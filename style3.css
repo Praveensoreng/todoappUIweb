@@ -1,0 +1,110 @@
+.container1{
+    
+    height:128px;
+    width:871px;
+    margin:auto;
+}
+.heading{
+   
+    height:104px;
+    width:301px;
+    margin:auto;
+    text-align: center;
+    font-size: 52px;
+    font-weight: bold;
+    
+    
+}
+.container2{
+   
+    height:87px;
+    width:250px;
+    margin:auto;
+}
+.icon{
+    font-size: 44px;
+    display: inline-block;
+    color:red;
+    margin-left: 50px;
+    
+}
+.back{
+    font-size: 34px;
+    display: inline-block;
+    
+}
+.container3{
+    border:7px solid red;
+    border-radius: 24px;
+    box-shadow: 7px 7px 3px gray;
+    height:350px;
+    width:291px;
+    margin:auto;
+    position: relative;
+}
+.paris{
+   
+    padding-top: 14px;
+    margin: auto;
+    height:63px;
+    width:161px;
+    font-size: 30px;
+    text-align: center;
+    color: red;
+}
+.task{
+   
+    height:62px;
+    width:185px;
+    margin: auto;
+    font-size: 23px;
+    text-decoration: line-through;
+    color: red;
+}
+.check{
+    
+    height:70px;
+    width:185px;
+    margin:auto;
+    font-size: 18px;
+}
+.bottom{
+    
+    height:44px;
+    width:42px;
+    font-size: 38px;
+    color: red;
+    position:absolute;
+    right:2px;
+    bottom: 6px;
+
+}
+
+.line1{
+        background-color:gray;
+        width:188px;
+        height:1px;
+        position: absolute;
+        left:390px;
+        top:40px;
+
+}
+.line2{
+    background-color: gray;
+    width:188px;
+    height:1px;
+    position: absolute;
+    right:390px;
+    top:38px;
+}
+.line3{
+    background-color: gray;
+    width:215px;
+    height:1px;
+}
+a{
+    color: red;
+}
+body{
+    font-family: sans-serif;
+}
